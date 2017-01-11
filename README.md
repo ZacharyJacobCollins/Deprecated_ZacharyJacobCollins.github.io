@@ -3,7 +3,6 @@
 > github.io
 
 ## Build Setup
-
 ``` bash
 # install dependencies
 npm install
