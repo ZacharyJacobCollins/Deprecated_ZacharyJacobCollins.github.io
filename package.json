@@ -12,7 +12,11 @@
     "test": "npm run unit && npm run e2e"
   },
   "dependencies": {
+    "bootstrap": "^4.0.0-alpha.5",
+    "jquery": "^3.1.0",
+    "underscore": "^1.8.3",
     "vue": "^2.1.0",
+    "vue-resource": "^1.0.3",
     "vue-router": "^2.1.1",
     "vue-style-loader": "^1.0.0",
     "vuex": "^2.1.1"
@@ -26,6 +30,7 @@
     "babel-preset-es2015": "^6.0.0",
     "babel-preset-stage-2": "^6.0.0",
     "babel-register": "^6.0.0",
+    "bootstrap": "^4.0.0-alpha.5",
     "chai": "^3.5.0",
     "chalk": "^1.1.3",
     "chromedriver": "^2.21.2",
@@ -42,6 +47,7 @@
     "html-webpack-plugin": "^2.8.1",
     "http-proxy-middleware": "^0.17.2",
     "inject-loader": "^2.0.1",
+    "jquery": "^3.1.0",
     "json-loader": "^0.5.4",
     "karma": "^1.3.0",
     "karma-coverage": "^1.1.1",
@@ -62,8 +68,10 @@
     "shelljs": "^0.7.4",
     "sinon": "^1.17.3",
     "sinon-chai": "^2.8.0",
+    "underscore": "^1.8.3",
     "url-loader": "^0.5.7",
     "vue-loader": "^10.0.0",
+    "vue-resource": "^1.0.3",
     "vue-router": "^2.1.1",
     "vue-style-loader": "^1.0.0",
     "vue-template-compiler": "^2.1.0",

@@ -1,24 +1,14 @@
-//Template code below
-
-// // The Vue build version to load with the `import` command
-// // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
-// import Vue from 'vue'
-// import App from './App'
-
-// /* eslint-disable no-new */
-// new Vue({
-//   el: '#app',
-//   template: '<App/>',
-//   components: { App }
-// })
-
-
 import Vue from 'vue'
 import App from './App'
 import store from './store'
 import router from './router'
 import { sync } from 'vuex-router-sync'
 import * as filters from './filters'
+
+Vue.use(require('vue-resource'));
+require('bootstrap');
+window._ = require('underscore');
+window.$ = window.jQuery = require('jquery');
 
 // sync the router with the vuex store.
 // this registers `store.state.route`
