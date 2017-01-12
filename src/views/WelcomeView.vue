@@ -9,7 +9,7 @@
 		    <router-link to="projects" class="btn btn-primary">Projects</router-link>
 		  </div>
 		  <div class="card-footer text-muted">
-		    Last updated 2 days ago
+		    Website Last Updated: {{ repoLastUpdated }}
 		  </div>
 		</div>
 	</div>
