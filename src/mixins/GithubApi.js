@@ -6,6 +6,7 @@ module.exports = {
     }
   },
     methods: {
+      //Retrieve when the repository was last updated
       fetchRepoLastUpdated() {
         var that = this;
         $.ajax({
