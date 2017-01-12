@@ -6,9 +6,9 @@ import { sync } from 'vuex-router-sync'
 import * as filters from './filters'
 
 Vue.use(require('vue-resource'));
-require('bootstrap');
-window._ = require('underscore');
 window.$ = window.jQuery = require('jquery');
+window._ = require('underscore');
+require('bootstrap');
 
 // sync the router with the vuex store.
 // this registers `store.state.route`
