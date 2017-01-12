@@ -6,7 +6,6 @@ Vue.use(Router)
 import Hello from '../components/Hello.vue'
 import WelcomeView from '../views/WelcomeView.vue'
 
-
 export default new Router({
   scrollBehavior: () => ({ y: 0 }),
   routes: [
