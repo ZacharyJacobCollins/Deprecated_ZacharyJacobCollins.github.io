@@ -14,21 +14,26 @@ module.exports = {
             url: "https://api.github.com/repos/ZacharyJacobCollins/ZacharyJacobCollins.github.io",
             success: function(data){
               //Retrieve the last push time to the repo for update time
-              if(data.pushed_at) {
-                that.repoLastUpdated = new Date(Date.parse(data.pushed_at)).toString();
-              }
-              //On blank repoLastUpdated return sometime today
-              else {
-                that.repoLastUpdated = "Sometime today";
-              }
+              that.repoLastUpdated = new Date(Date.parse(data.pushed_at)).toString();
             },
             //On complete fail return err and set to sometime today
             failure: function(errMsg) {
                 console.log(err);
-                that.repoLastUpdated = "Sometime today";
+                that.error();
+            },
+            statusCode: {
+                502: function () {
+                  that.error();
+                },
+                500: function () {
+                  that.error();
+                },
             }
         });
       },
+      error() {
+        this.repoLastUpdated = "Sometime Today"; 
+      }
   },
   mounted() {
     console.log('Github api mixin mounted succesfully');
