@@ -2,11 +2,11 @@
 	<div id="welcome-container">
 		<div class="card text-center">
 		  <div class="card-header">
-		    ZacharyJacobCollins.github.io
+		    <h2>ZacharyJacobCollins.github.io</h2>
 		  </div>
 		  <div class="card-block">
 		    <p class="card-text">"Greats aren't great because at birth they can paint, the greats are great because they paint a lot."</p>
-		    <router-link to="projects" class="btn btn-primary">Projects</router-link>
+		    <router-link to="projects"><i class="material-icons">work</i></router-link>
 		  </div>
 		  <div class="card-footer text-muted">
 		    Website Last Updated: {{ repoLastUpdated }}
@@ -34,5 +34,14 @@
 		align-items: center;
 		justify-content: center;
 		height: 100%;
+	}
+
+
+
+	.material-icons {
+		font-size: 50px;
+		border: 1px solid grey;
+		border-radius: 50%;
+		padding: 10px;
 	}
 </style>
