@@ -19,3 +19,12 @@ npm run build
 # run tests (karma)
 npm test
 ```
+## Quotes
+> simplicity is a prerequisite for reliability - edsger w. dijkstra
+
+## Talks
+Vuex/redux talk: https://www.youtube.com/watch?v=l1KHL-TX3qs
+Simple made easy
+
+
+
