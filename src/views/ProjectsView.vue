@@ -6,7 +6,9 @@
 
 				<projectcard 
 					title="Blooming Garden" 
-					description="Automated Gardening written in Laravel/Vue/Python. Grow plants all year long, share results with friends, optimize with ML. "
+					description="Automated Gardening written in Laravel/Vue/Python.
+
+					 Grow plants all year long. Share results with friends, optimize with ML. "
 					link="https://devpost.com/software/blooming-garden">
 				</projectcard>
 
