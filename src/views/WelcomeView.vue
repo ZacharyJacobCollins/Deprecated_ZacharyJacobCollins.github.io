@@ -36,12 +36,9 @@
 		height: 100%;
 	}
 
-
-
 	.material-icons {
 		font-size: 50px;
-		border: 1px solid grey;
-		border-radius: 50%;
 		padding: 10px;
 	}
+
 </style>
