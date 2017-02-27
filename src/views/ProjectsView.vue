@@ -26,7 +26,18 @@
 
 			</div>
 
+			<br />
+
 			<!-- Row 2 -->
+			<div class="row">
+
+				<projectcard 
+					title="Drop Earrings Not Bombs" 
+					description="Augmented reality system built at Mhacks 8, and designed for detroit"
+					link="https://github.com/ZacharyJacobCollins/Mhacks8LaravelApp">
+				</projectcard>
+
+			</div>
 		</div>
 
 	</div>
@@ -48,6 +59,5 @@
 	.projects-wrapper {
 		margin-top: 100px;
 	}
-
 
 </style>

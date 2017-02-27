@@ -7,6 +7,8 @@
 		  <div class="card-block">
 		    <p class="card-text">"Greats aren't great because at birth they can paint, the greats are great because they paint a lot."</p>
 		    <router-link to="projects"><i class="material-icons">work</i></router-link>
+		    <router-link to="resume"><i class="material-icons">description</i></router-link>
+		    <router-link to="learning"><i class="material-icons">device_hub</i></router-link>
 		  </div>
 		  <div class="card-footer text-muted">
 		    Website Last Updated: {{ repoLastUpdated }}
