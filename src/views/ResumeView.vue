@@ -5,11 +5,10 @@
 </template>
 
 <script>
-	export default {
-	  name: 'resume-view',
-	  components: {
 
-	  }
+
+	export default {
+	  name: 'resume-view'
 	}
 </script>
 
