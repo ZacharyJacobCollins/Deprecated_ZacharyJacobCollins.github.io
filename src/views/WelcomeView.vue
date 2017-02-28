@@ -1,6 +1,7 @@
 <template>
 	<div class="container">
-			
+		<div class="center">
+				
 			<div class="welcome-display">
 				<h1 class="title"> Zachary Jacob Collins </h1>
 				<laptop></laptop>
@@ -9,12 +10,11 @@
 			<br />
 
 			<div class="row">
-			    <p class="card-text col-6">"Greats aren't great because at birth they can paint, the greats are great because they paint a lot."</p>
-				<br />
 
-			   	<span class="card-text col-6">Website Last Updated: {{ repoLastUpdated }}</span>
-				<br />
-				
+			   	<span class="col-12 last-updated">Website Last Updated: {{ repoLastUpdated }}</span>
+			   	<br />
+
+
 				<div class="col-4 link">
 					<router-link to="projects"><i class="material-icons">work</i></router-link>
 				</div>
@@ -26,6 +26,9 @@
 			    </div>
 
 		    </div>
+
+		</div>
+
 	</div>
 </template>
 
@@ -58,10 +61,16 @@
 
 	.title { 
 		font-family: 'Megrim', cursive;
+		font-size: 4rem;
 		display: flex;
 		justify-content: center;
 		margin-bottom: 60px;
+	}
 
+	.last-updated {
+		text-align: center;	
+		margin-top: 10px;
+		margin-bottom: 50px;
 	}
 
 	.material-icons {
