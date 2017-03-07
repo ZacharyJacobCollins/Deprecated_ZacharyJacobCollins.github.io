@@ -6,11 +6,8 @@
 				<h1 class="title"> Zachary Jacob Collins </h1>
 				<laptop></laptop>
 			</div>
-
 			<br />
-
 			<div class="row">
-
 			   	<span class="col-12 last-updated">Website Last Updated: {{ repoLastUpdated }}</span>
 			   	<br />
 				<div class="col-2 link">
@@ -29,8 +26,8 @@
 					</router-link>
 				</div>
 				<div class="col-2 link">
-					<router-link to="frontend">
-						<i class="fa fa-picture-o" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Frontend Components"></i>
+					<router-link to="years">
+						<i class="fa fa-picture-o" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Year In Review"></i>
 					</router-link>
 				</div>
 				<div class="col-2 link">
@@ -80,7 +77,7 @@
 	}
 
 	.welcome-display {
-		margin-top: 25%;
+		margin-top: 20%;
 	}
 
 	.title { 

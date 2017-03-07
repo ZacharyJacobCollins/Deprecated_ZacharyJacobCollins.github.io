@@ -1,11 +1,10 @@
 <template>
 
-	<div class="card col-sm-3 offset-sm-1 project-card">
+	<div class="card col-lg-3 offset-lg-1 project-card">
 	  <div class="card-block">
-	    <h3 class="card-title">{{ title }}</h3>
+	    <a :href="link"><h3 class="card-title">{{ title }}</h3></a>
 	    <hr/>
 	    <p class="card-text">{{ description }} </p>
-	    <a :href="link" class="btn btn-primary">View</a>
 	  </div>
 	</div>
 
@@ -22,7 +21,7 @@
 <style scoped>
 	.project-card {
 		box-shadow: 0 10px 75px -16px #000;
-		
+		min-height: 350px;	
 	}
 
 </style>

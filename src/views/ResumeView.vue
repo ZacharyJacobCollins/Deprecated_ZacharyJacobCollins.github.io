@@ -1,6 +1,6 @@
 <template>
 	<div class="container">
-	<iframe src="https://resume.creddle.io/embed/6yewlbsj840" seamless></iframe> 
+	<iframe src="https://resume.creddle.io/embed/edho0xwpy88" seamless></iframe> 
 	</div>
 </template>
 
