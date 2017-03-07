@@ -3,7 +3,9 @@
 		<div class="projects-wrapper">
 			<!-- Row 1 -->
 			<div class="row">
-
+				<div class="col-1">
+					Pomodoro
+				</div>
 			</div>
 
 			<br />
@@ -13,12 +15,10 @@
 </template>
 
 <script>
-	import Projectcard from '../components/Projectcard.vue';
 
 	export default {
-	  name: 'projects-view',
+	  name: 'learning-model',
 	  components: {
-	  	Projectcard
 	  }
 	}
 </script>

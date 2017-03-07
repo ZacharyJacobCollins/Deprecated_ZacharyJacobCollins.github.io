@@ -13,22 +13,38 @@
 
 			   	<span class="col-12 last-updated">Website Last Updated: {{ repoLastUpdated }}</span>
 			   	<br />
-
-
-				<div class="col-4 link">
-					<router-link to="projects"><i class="material-icons">work</i></router-link>
+				<div class="col-2 link">
+					<router-link to="projects">
+						<i class="fa fa-wrench" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Projects"></i>
+					</router-link>
 				</div>
-				<div class="col-4 link">
-					<router-link to="resume"><i class="material-icons">description</i></router-link>
+				<div class="col-2 link">
+					<router-link to="resume">
+						<i class="fa fa-file" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Resume"></i>
+					</router-link>
 				</div>
-			    <div class="col-4 link">
-			    	<router-link to="learning"><i class="material-icons">device_hub</i></router-link>
-			    </div>
-
+				<div class="col-2 link">
+					<router-link to="ml">
+						<i class="fa fa-flask" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Machine Learning"></i>
+					</router-link>
+				</div>
+				<div class="col-2 link">
+					<router-link to="frontend">
+						<i class="fa fa-picture-o" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Frontend Components"></i>
+					</router-link>
+				</div>
+				<div class="col-2 link">
+					<a href="https://medium.com/@zacjacob">
+						<i class="fa fa-pencil" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Medium Articles"></i>
+					</a>
+				</div>
+				<div class="col-2 link">
+					<a href="https://github.com/zacharyjacobcollins">
+						<i class="fa fa-github" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Github"></i>
+					</a>
+				</div>
 		    </div>
-
 		</div>
-
 	</div>
 </template>
 
@@ -42,8 +58,16 @@
 	  components: {
 	  	Laptop
 	  },
+	  methods: {
+	  	initTooltips() {
+	  		$(function () {
+			  $('[data-toggle="tooltip"]').tooltip();
+			});
+	  	},
+	  },
 	  mounted() {
     	this.fetchRepoLastUpdated();
+    	this.initTooltips();
 	  }
 	}
 
@@ -73,17 +97,13 @@
 		margin-bottom: 50px;
 	}
 
-	.material-icons {
-		font-size: 50px;
-		padding: 10px;
-	}
-
 	.link {
 		text-align: center;
 	}
 
 	i {
-		color: green;
+		color: black;
+		font-size: 3em;
 	}
 
 </style>
