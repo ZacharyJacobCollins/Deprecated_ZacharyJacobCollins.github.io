@@ -21,9 +21,9 @@
 					</router-link>
 				</div>
 				<div class="col-2 link">
-					<router-link to="ml">
+					<a href="https://go-ml.herokuapp.com/">
 						<i class="fa fa-flask" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Machine Learning"></i>
-					</router-link>
+					</a>
 				</div>
 				<div class="col-2 link">
 					<router-link to="years">
@@ -74,6 +74,11 @@
 	html, body {
 		height: 100%;
 		overflow: hidden;
+	}
+
+	img {
+		height: 150px;
+		border-radius: 1in;
 	}
 
 	.welcome-display {
