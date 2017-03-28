@@ -12,7 +12,7 @@
 
 					<li> January 22, 2017.   Placed 1st at Spartahack 2017 https://devpost.com/software/blooming-garden</li>
 					<li> February 26, 2017.  Won Feed Clothe prize at hackillinois https://devpost.com/software/drop-earrings-not-bombs </li>
-					<li> March 17, 2017.  Recieved and accepted first full time position as a software engineer.  60k starting salary, 2 days a week remote, health insurance </li>
+					<li> March 17, 2017.  Recieved and accepted first full time position as a software engineer.  Salary enough to do fun things, 2 days a week remote, health insurance </li>
 					<li> March 23, 2017.  Found a sublet to live in for the summer in downtown ann arbor http://www.towerplaza.net/ </li>
 					<li> March 26, 2017.  Placed 1st at Mhacks https://devpost.com/software/whispr </li>
 				</ul>
