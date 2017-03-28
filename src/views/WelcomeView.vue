@@ -26,7 +26,7 @@
 					</a>
 				</div>
 				<div class="col-2 link">
-					<router-link to="years">
+					<router-link to="year">
 						<i class="fa fa-picture-o" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Year In Review"></i>
 					</router-link>
 				</div>

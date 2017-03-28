@@ -8,7 +8,7 @@ import ProjectsView from '../views/ProjectsView.vue'
 import ResumeView from '../views/ResumeView.vue'
 import LearningModel from '../views/LearningModel.vue'
 import MlView from '../views/MlView.vue'
-import YearsInReview from '../views/YearsInReview.vue'
+import YearInReview from '../views/YearInReview.vue'
 
 export default new Router({
   scrollBehavior: () => ({ y: 0 }),
@@ -17,7 +17,7 @@ export default new Router({
     { path: '/projects', component: ProjectsView },
     { path: '/resume', component: ResumeView },
     { path: '/learning', component: LearningModel },
-    { path: '/years', component: YearsInReview },
+    { path: '/year', component: YearInReview },
     { path: '/ml', component: MlView },
     { path: '/', redirect: '/welcome' }
   ]
