@@ -15,6 +15,8 @@
 					<li> March 17, 2017.  Recieved and accepted first full time position as a software engineer.  Salary enough to do fun things, 2 days a week remote, health insurance </li>
 					<li> March 23, 2017.  Found a sublet to live in for the summer in downtown ann arbor http://www.towerplaza.net/ </li>
 					<li> March 26, 2017.  Placed 1st at Mhacks https://devpost.com/software/whispr </li>
+					<li> April 9, 2017.  Bought a cool watch</li>
+					<li> April 10, 2017.  Attended the computer science celebration of excellence at EMU.  Thinking about sponsoring an ACM scholarship in coming years</li>
 				</ul>
 		    </div>
 		</div>
