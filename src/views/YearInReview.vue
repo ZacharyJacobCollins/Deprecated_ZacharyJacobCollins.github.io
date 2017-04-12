@@ -7,6 +7,7 @@
 				<laptop></laptop>
 			</div>
 			<br />
+			<h2> Life Events </h2>
 			<div class="row">
 				<ul>
 
@@ -19,6 +20,11 @@
 					<li> April 10, 2017.  Attended the computer science celebration of excellence at EMU.  Thinking about sponsoring an ACM scholarship in coming years</li>
 				</ul>
 		    </div>
+			<h2> Books I've read this year </h2>
+			<ul>
+				<li> The Blood Mirror - Brent Weeks: The fourth book in onne of my favorite fantasy series.</li>
+				<li> The Warded Man - Peter V. Brett: The first book in the demon cycle.  Follows Arlen, an extremely relateable character for me</li>
+			</ul>
 		</div>
 	</div>
 </template>
