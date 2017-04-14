@@ -5,7 +5,7 @@
 			<div class="row">
 				<projectcard 
 					title="Blooming Garden" 
-					description="Automated Gardening written in Laravel, Vue, and Python. Grow plants all year long. Share results with friends, optimize with ML. "
+					description="Automated Gardening written in Laravel, Vue, and Python. Grow plants all year long. Share results with friends, optimize with ML.  1st at Spartahack 2017"
 					link="https://devpost.com/software/blooming-garden">
 				</projectcard>
 				<projectcard 
@@ -28,6 +28,11 @@
 					title="Drop Earrings Not Bombs" 
 					description="Ecommerce website built for syrian refugees at Hackillinois 2017."
 					link="https://github.com/ZacharyJacobCollins/Mhacks8LaravelApp">
+				</projectcard>
+				<projectcard 
+					title="Whisper" 
+					description="Smart glasses. 1st at Mhacks 9"
+					link="https://devpost.com/software/whispr">
 				</projectcard>
 			</div>
 		</div>
