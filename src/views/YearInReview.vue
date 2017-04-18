@@ -1,7 +1,6 @@
 <template>
 	<div class="container">
 		<div class="center">
-				
 			<div class="welcome-display">
 				<h1 class="title"> Year in Review </h1>
 				<laptop></laptop>
@@ -13,7 +12,7 @@
 
 					<li> January 22, 2017.   Placed 1st at Spartahack 2017 https://devpost.com/software/blooming-garden</li>
 					<li> February 26, 2017.  Won Feed Clothe prize at hackillinois https://devpost.com/software/drop-earrings-not-bombs </li>
-					<li> March 17, 2017.  Recieved and accepted first full time position as a software engineer.  Salary enough to do fun things, 2 days a week remote, health insurance </li>
+					<li> March 17, 2017.  Recieved offer for fulltime position at Service Spring Corp. as a software engineer.  Salary enough to save and do fun things, 2 days a week remote, health insurance </li>
 					<li> March 23, 2017.  Found a sublet to live in for the summer in downtown ann arbor http://www.towerplaza.net/ </li>
 					<li> March 26, 2017.  Placed 1st at Mhacks https://devpost.com/software/whispr </li>
 					<li> April 9, 2017.  Bought a cool watch</li>
