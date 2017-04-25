@@ -17,7 +17,7 @@
 					<li> March 26, 2017.  Placed 1st at Mhacks https://devpost.com/software/whispr </li>
 					<li> April 9, 2017.  Bought a cool watch</li>
 					<li> April 10, 2017.  Attended the computer science celebration of excellence at EMU.  Thinking about sponsoring an ACM scholarship in coming years</li>
-					<li> April 20, 2017.  Recieved and accepted a position at <a href="notion.ai">Notion</a> as a Cloud Engineer, working on IoT Devices!</li>
+					<li> April 20, 2017.  Recieved and accepted a position at <a href="https://notion.ai">Notion</a> as a Cloud Engineer, working on IoT Devices!</li>
 				</ul>
 		    </div>
 			<h2> Books I've read this year </h2>
