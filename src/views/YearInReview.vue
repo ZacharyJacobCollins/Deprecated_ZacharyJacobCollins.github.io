@@ -29,6 +29,7 @@
 			<ul>
 				<li> <a href="https://en.wikipedia.org/wiki/Fitts%27s_law">Fitts's Law</a> Utilized in the creation of good UI.  Essentially closer mouse movements are better. Buttons on edges are better.  Bigger buttons are better</li>
 				<li> <a href="https://en.wikipedia.org/wiki/Hick%27s_law">Hick's Law</a> The amount of choices a person has affects the time they will take to make them logarithmically. Modeled by equation T = b * log_2(n+1)  Where T is the average reaction time to choosing a choice, n is number of equally probable choices, and b is a constant</li>
+<li>Won HackWSU, and a stipend for a trip to grand rapids to present our project to NEHA.  (Stipend to be used specifically for booze)</li>
 			</ul>
 		</div>
 	</div>
