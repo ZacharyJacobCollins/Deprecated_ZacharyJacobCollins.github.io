@@ -21,8 +21,8 @@
 					</router-link>
 				</div>
 				<div class="col-2 link">
-					<a href="https://go-ml.herokuapp.com/">
-						<i class="fa fa-flask" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Machine Learning"></i>
+					<a href="trips">
+						<i class="fa fa-flask" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Trips"></i>
 					</a>
 				</div>
 				<div class="col-2 link">

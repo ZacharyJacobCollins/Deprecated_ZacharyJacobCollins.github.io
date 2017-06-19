@@ -20,12 +20,14 @@
 					<li> April 20, 2017.  Recieved and accepted a position at <a href="https://notion.ai">Notion</a> as a Cloud/Lead Voice Engineer (now <a href="https://trove.ai">Trove.AI</a>), working on IoT Devices!</li>
 					<li> May 21, 2017.  Won the largest cash prize and a trip for building an Alexa/Api application focused around providing information regarding safe drinking water at <a href="https://hackwsu.com">HackWSU</a></li>
 					<li> May 30, 2017.  Dropped my Networking course at Eastern michigan University to be taken at a later date.</li>
+					<li> June 18, 2017. Crushed on a girl for a month who wasn't into me, for a month too long.</li>
 				</ul>
 		    </div>
 			<h2> Books I've read this year </h2>
 			<ul>
 				<li> The Blood Mirror - Brent Weeks: The fourth book in onne of my favorite fantasy series.</li>
 				<li> The Warded Man - Peter V. Brett: The first book in the demon cycle.  Follows Arlen, an extremely relateable character for me</li>
+				<li> Tuesdays with morrie - Mitch Albom</li>
 			</ul>
 			<h2> Concepts I've Encountered </h2>
 			<ul>

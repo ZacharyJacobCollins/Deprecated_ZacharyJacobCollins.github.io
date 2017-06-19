@@ -5,6 +5,7 @@ Vue.use(Router)
 
 import WelcomeView from '../views/WelcomeView.vue'
 import ProjectsView from '../views/ProjectsView.vue'
+import TripsView from '../views/TripsView.vue'
 import ResumeView from '../views/ResumeView.vue'
 import LearningModel from '../views/LearningModel.vue'
 import MlView from '../views/MlView.vue'
@@ -19,6 +20,7 @@ export default new Router({
     { path: '/learning', component: LearningModel },
     { path: '/year', component: YearInReview },
     { path: '/ml', component: MlView },
+    { path: '/trips', component: TripsView },
     { path: '/', redirect: '/welcome' }
   ]
 })
