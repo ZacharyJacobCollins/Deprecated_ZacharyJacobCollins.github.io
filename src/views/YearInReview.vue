@@ -20,7 +20,7 @@
 					<li> April 20, 2017.  Recieved and accepted a position at <a href="https://notion.ai">Notion</a> as a Cloud/Lead Voice Engineer (now <a href="https://trove.ai">Trove.AI</a>), working on IoT Devices!</li>
 					<li> May 21, 2017.  Won the largest cash prize and a trip for building an Alexa/Api application focused around providing information regarding safe drinking water at <a href="https://hackwsu.com">HackWSU</a></li>
 					<li> May 30, 2017.  Dropped my Networking course at Eastern michigan University to be taken at a later date.</li>
-					<li> June 16, 2017. Gave $1,000 to an acquaintance I know in the Philipines so he could finish his schooling, kicking off fulfilling one of my longtime goals to helping people, and <a href="http://effective-altruism.com/">earning to give.</a></li>
+					<li> June 16, 2017. Gave $1,000 to an acquaintance I know in the Philipines so he could finish his schooling kicking off fulfilling one of my longtime goals of <a href="http://effective-altruism.com/">earning to give.</a></li>
 					<li> June 18, 2017. Crushed on a girl for a month who wasn't into me, for a month too long.</li>
 				</ul>
 		    </div>
