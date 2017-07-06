@@ -18,9 +18,13 @@
 					<li> April 9, 2017.  Bought a cool watch</li>
 					<li> April 10, 2017.  Attended the computer science celebration of excellence at EMU.  Thinking about sponsoring an ACM scholarship in coming years</li>
 					<li> April 20, 2017.  Recieved and accepted a position at <a href="https://notion.ai">Notion</a> as a Cloud/Lead Voice Engineer (now <a href="https://trove.ai">Trove.AI</a>), working on IoT Devices!</li>
+					<li>May 20, 2017.  Came to the conclusion that Macs are much much better than PCs </li>
 					<li> May 21, 2017.  Won the largest cash prize and a trip for building an Alexa/Api application focused around providing information regarding safe drinking water at <a href="https://hackwsu.com">HackWSU</a></li>
 					<li> May 30, 2017.  Dropped my Networking course at Eastern michigan University to be taken at a later date.</li>
+					<li>June 8, 2017.  Spent a month of time relearning how NOT to date</li>
 					<li> June 16, 2017. Gave $1,000 to an acquaintance I know in the Philipines so he could finish his schooling kicking off fulfilling one of my longtime goals of <a href="http://effective-altruism.com/">earning to give.</a></li>
+					<li>July 4, 2017.  July 4th was great, went to a bbq and hung out in a rooftop hottub with friends</li>
+
 				</ul>
 		    </div>
 			<h2> Books I've read this year </h2>
@@ -33,7 +37,6 @@
 			<ul>
 				<li> <a href="https://en.wikipedia.org/wiki/Fitts%27s_law">Fitts's Law</a> Utilized in the creation of good UI.  Essentially closer mouse movements are better. Buttons on edges are better.  Bigger buttons are better</li>
 				<li> <a href="https://en.wikipedia.org/wiki/Hick%27s_law">Hick's Law</a> The amount of choices a person has affects the time they will take to make them logarithmically. Modeled by equation T = b * log_2(n+1)  Where T is the average reaction time to choosing a choice, n is number of equally probable choices, and b is a constant</li>
-<li>Won HackWSU, and a stipend for a trip to grand rapids to present our project to NEHA.  (Stipend to be used specifically for booze)</li>
 			</ul>
 		</div>
 	</div>
