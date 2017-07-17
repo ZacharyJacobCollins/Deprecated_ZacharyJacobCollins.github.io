@@ -35,6 +35,7 @@
 				<li> The Blood Mirror - Brent Weeks: The fourth book in onne of my favorite fantasy series.</li>
 				<li> The Warded Man - Peter V. Brett: The first book in the demon cycle.  Follows Arlen, an extremely relateable character for me</li>
 				<li> Tuesdays with morrie - Mitch Albom</li>
+				<li> The Alchemist - Paulo Coelho</li>
 				<li> Radical Candor - Kim Scott: An extremely useful book that walks through building strong relationships as a manager, as well as how to manage more effectively</li>
 			</ul>
 			<h2> Concepts I've Encountered </h2>
