@@ -10,21 +10,25 @@
 			<div class="row">
 			   	<span class="col-12 last-updated">Website Last Updated: {{ repoLastUpdated }}</span>
 			   	<br />
+				<!--
 				<div class="col-2 link">
 					<router-link to="projects">
 						<i class="fa fa-wrench" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Projects"></i>
 					</router-link>
 				</div>
+				-->
 				<div class="col-2 link">
 					<router-link to="resume">
 						<i class="fa fa-file" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Resume"></i>
 					</router-link>
 				</div>
+				<!--
 				<div class="col-2 link">
 					<a href="trips">
 						<i class="fa fa-flask" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Trips"></i>
 					</a>
 				</div>
+				-->
 				<div class="col-2 link">
 					<router-link to="year">
 						<i class="fa fa-picture-o" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Year In Review"></i>

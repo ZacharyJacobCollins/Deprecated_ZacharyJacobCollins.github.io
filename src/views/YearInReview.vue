@@ -21,12 +21,13 @@
 					<li>May 20, 2017.  Came to the conclusion that Macs are much much better than PCs </li>
 					<li> May 21, 2017.  Won the largest cash prize and a trip for building an Alexa/Api application focused around providing information regarding safe drinking water at <a href="https://hackwsu.com">HackWSU</a></li>
 					<li> May 30, 2017.  Dropped my Networking course at Eastern michigan University to be taken at a later date.</li>
-					<li>June 8, 2017.  Spent about a month in a really weird situation crushing on a girl that wasn't into me.</li>
+					<li>June 8, 2017.  Started dating again.</li>
 					<li> June 16, 2017. Gave $1,000 to an acquaintance I know in the Philipines so he could finish his schooling kicking off fulfilling one of my longtime goals of <a href="http://effective-altruism.com/">earning to give.</a></li>
 					<li>July 4, 2017.  July 4th was great, went to a bbq and hung out in a rooftop hottub with friends</li>
 					<li>July 10, 2017.  Attempted and failed at 500 lbs. deadlift.  Got it about 2/3 of the way up.  Couldn't lock it out</li>
 					<li>July 11, 2017. Started the alchemist.  Phenomenal book.</li>
-					<li>July 15, 2017.  Tried a cigar for the first time.  A puff is a decent accessory to a good glas of whiskey, but nothing to write home about.</li>
+					<li>July 15, 2017.  Tried a cigar for the first time.</li>
+					<li>July 20, 2017.  Went on a road trip with Seth to the UP, kayaked around pictured rocks.</li>
 					<li>July 31, 2017.  Won best design hack at Detroit Industrial Hackathon.</li>
 				</ul>
 		    </div>
