@@ -22,13 +22,11 @@
 						<i class="fa fa-file" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Resume"></i>
 					</router-link>
 				</div>
-				<!--
 				<div class="col-2 link">
-					<a href="trips">
-						<i class="fa fa-flask" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Trips"></i>
+					<a href="">
+						<i class="fa fa-flask" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Machine Learning"></i>
 					</a>
 				</div>
-				-->
 				<div class="col-2 link">
 					<router-link to="year">
 						<i class="fa fa-picture-o" aria-hidden="false" data-toggle="tooltip" data-placement="bottom" title="Year In Review"></i>
