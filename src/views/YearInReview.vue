@@ -29,6 +29,11 @@
 					<li>July 15, 2017.  Tried a cigar for the first time.</li>
 					<li>July 20, 2017.  Went on a road trip with Seth to the UP, kayaked around pictured rocks.</li>
 					<li>July 31, 2017.  Won best design hack at Detroit Industrial Hackathon.</li>
+					<li>Moved out of Downtown Ann Arbor in order to get a puppy</li>
+					<li>August 20, 2017. Relationship ended with the girl lying about a bunch of shit.  Torn up for a bit.</li>
+					<li>August 28, 2017. Puppy was born :)</li>
+					<li>Octover 10, 2017.  Saw Crywolf in concert.  Incredible</li>
+					<li>October 11, 2017. Have had 2 people at this point in the year come to me and say that through actions and things that I've done, I've completely changed their life.</li>
 				</ul>
 		    </div>
 			<h2> Books I've read this year </h2>
